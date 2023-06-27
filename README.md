@@ -2,7 +2,7 @@
 handwritten BP-network using python3
 本实验中图片的格式采用的是.bmp，测试文件组织结构为：  
 -1  
-  -1.bmp  
+    -1.bmp  
   -2.bmp  
   -3.bmp  
   -...  
