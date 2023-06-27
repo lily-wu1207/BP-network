@@ -18,7 +18,8 @@ handwritten BP-network using python3
   -2.bmp  
   -3.bmp  
   -...  
-共12类，每类有若干张图片，在测试时将其转换成.npy格式文件，整理成<key,value>的格式并打乱顺序
+共12类，每类有若干张图片，在测试时将其转换成.npy格式文件，整理成<key,value>的格式并打乱顺序  
+文件中model_91.26.npy为训练得到的模型参数
 
 ## 代码基本架构
 ### 数据预处理： split_data.py
